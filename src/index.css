@@ -1,0 +1,18 @@
+.icon {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  color: white;
+  text-align: center;
+  background-color: rgb(128, 128, 255);
+  border-radius: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -35px;
+}
+
+.mt-7,
+.mb-7 {
+  margin-top: 4rem;
+}
